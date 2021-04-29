@@ -4,6 +4,11 @@
  
 https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%20la%20mejor%20suscripcion.mp4
 
+#EXTINF:-1 tvg-id="246" tvg-name="Telefe Rosario" tvg-logo="https://www.m3u.cl/logo/246_Telefe_Rosario.jpg", Telefe Rosario  | AR
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="236" tvg-name="Canal 9 Litoral" tvg-logo="https://www.m3u.cl/logo/236_Canal_9_Litoral.png", Canal 9 Litoral  | AR
+https://5975e06a1f292.streamlock.net:4443/ahora/ahora/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:0 tvg-logo="https://scontent-mia3-2.xx.fbcdn.net/v/t1.0-9/35511039_177553142890870_198997164947406848_n.jpg?_nc_cat=0&_nc_eui2=AeFw-eVLJVg-JvFLapyCiLi6pzJDwibFOQa7aBxmTRYg4q50FlhsbZixFX5KNjGZVMRjGC7WQ1EBQtsGS-OvhaRkHvT7yy_qYSwLkz8KrizK6Q&oh=8749e47aca9a48ddf4b4eb8b4e2162b0&oe=5BA1DC7B" group-title="LISTASM3UIPTV.COM", listasm3uiptv.com JULIO 2018
 https://www.youtube.com/watch?v=Z_ogAzaPxTE
 
