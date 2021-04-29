@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-id="246" tvg-name="Telefe Rosario" tvg-logo="https://www.m3u.cl/logo/246_Telefe_Rosario.jpg", Telefe Rosario  | AR
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LU2WQFP.jpg" group-title="ARGENTINA", Canal 11 Ushuaia | HD
-https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="250" tvg-name="9Link" tvg-logo="https://www.m3u.cl/logo/250_9Link.png", 9Link  | AR
+http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XHauFcA.png" group-title="ARGENTINA", Canal 5 Telesol | HD
 http://149.56.98.124:9090/hls/telesol.m3u8
