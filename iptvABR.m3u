@@ -11,9 +11,12 @@ http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XHauFcA.png" group-title="ARGENTINA", Canal 5 Telesol | HD
 http://149.56.98.124:9090/hls/telesol.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nD9TVZg.jpg" group-title="ARGENTINA", Canal 9 Comodoro Rivadavia | SD
-http://live.canalnueve.tv:8082/hls/canal.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nD9TVZg.jpg" group-title="ARGENTINA", Canal 13 | SD
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+canal 9
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ENTRETENIMIENTO",Canal 3 (Argentina)
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
