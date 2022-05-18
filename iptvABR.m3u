@@ -5,15 +5,15 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1,iptvtools_8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1,iptvtools_9
+#EXTINF:-1,eltrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,iptvtools_10
+#EXTINF:-1,Nettv
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1,iptvtools_11
 https://es.wikipedia.org/wiki/Informaci%C3%B3n_Period%C3%ADstica#/media/Archivo:Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg
-#EXTINF:-1,iptvtools_12
+#EXTINF:-1,IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
-#EXTINF:-1,iptvtools_13
+#EXTINF:-1,cinco TV
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF:-1,iptvtools_14
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b1864000_sleng.m3u8
@@ -35,7 +35,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1,iptvtools_26
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1,iptvtools_28
+#EXTINF:-1,deportv
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w332315447.m3u8
-#EXTINF:-1,iptvtools_30
+#EXTINF:-1,PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w352966256.m3u8
